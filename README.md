@@ -7,8 +7,8 @@
 3. Afegir els fitxers modificats que volem pujar.
 4. Crear un commit amb un missatge que descrigui els canvis realitzats.
 5. Pujar els canvis a GitHub i comprovar que s'han actualitzat correctament.
-- [] Obrir la terminal i accedir a la carpeta del projecte.
-- [] Comprovar i sincronitzar els canvis amb GitHub.
-- [] Afegir els fitxers modificats amb git add ..
-- [] Crear un commit amb un missatge descriptiu.
-- [] Pujar els canvis a GitHub amb git push origin main i verificar que s'han actualitzat correctament. 
+- [ ] Obrir la terminal i accedir a la carpeta del projecte.
+- [ ] Comprovar i sincronitzar els canvis amb GitHub.
+- [ ] Afegir els fitxers modificats amb git add ..
+- [ ] Crear un commit amb un missatge descriptiu.
+- [ ] Pujar els canvis a GitHub amb git push origin main i verificar que s'han actualitzat correctament. 
